@@ -1,0 +1,16 @@
+# Compiled Java files
+*.class
+out/
+target/
+build/
+
+# IDE files
+.idea/
+*.iml
+
+# Local database credentials (if created later)
+CodeAndEscape_DB/db.properties
+
+# Operating system files
+.DS_Store
+Thumbs.db
